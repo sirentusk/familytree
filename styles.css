@@ -98,4 +98,31 @@ right connector from last child*/
 	border-color:  #94a0b4;
 }
 
+/* Reset existing tree styles for plain bullets */
+.plain-bullets {
+  list-style-type: disc; /* Using plain bullet points */
+  padding-left: 20px; /* Adjust as needed */
+  margin: 0;
+}
+
+.plain-bullets li {
+  text-align: left; /* Adjust alignment as needed */
+  position: relative;
+  padding: 0; /* No padding around list items */
+  margin: 5px 0; /* Space between list items */
+}
+
+/* Remove tree-specific connectors for plain bullets */
+.plain-bullets li::before,
+.plain-bullets li::after {
+  content: none; /* Remove any connector lines */
+}
+
+/* Add styles for nested lists within plain bullets if needed */
+.plain-bullets ul {
+  padding-left: 20px; /* Indent nested lists */
+  margin: 0;
+  list-style-type: disc; /* Keep bullet points for nested lists */
+}
+
 /* Source: https://thecodeplayer.com/walkthrough/css3-family-tree */
