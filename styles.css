@@ -11,7 +11,7 @@
 	border: 1px solid #ccc;
 	padding: 5px 10px;
 	text-decoration: none;
-	color: #999;
+	color: red;
 	font-family: arial, verdana, tahoma;
 	font-size: 11px;
 	display: inline-block;
@@ -27,7 +27,7 @@
 	border: 1px solid #ccc;
 	padding: 5px 10px;
 	text-decoration: none;
-	color: #666;
+	color: blue;
 	font-family: arial, verdana, tahoma;
 	font-size: 11px;
 	display: inline-block;
