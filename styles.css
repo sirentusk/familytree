@@ -21,7 +21,7 @@
 	transition: all 0.5s;
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
-	background-color: #e6f2ff;
+	background-color: rgba(166, 154, 255, 0.36);
 }
 
 .father {
@@ -38,7 +38,7 @@
 	transition: all 0.5s;
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
-	background-color: #fff7e6;
+	background-color: rgba(255, 188, 81, 0.36);
 }
 
 ul {
