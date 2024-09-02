@@ -7,7 +7,23 @@
 	color: red;
 }
 
-a {
+.mother {
+	border: 1px solid #ccc;
+	padding: 5px 10px;
+	text-decoration: none;
+	color: #999;
+	font-family: arial, verdana, tahoma;
+	font-size: 11px;
+	display: inline-block;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+}
+
+.father {
 	border: 1px solid #ccc;
 	padding: 5px 10px;
 	text-decoration: none;
@@ -21,10 +37,6 @@ a {
 	transition: all 0.5s;
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
-}
-
-p {
-	
 }
 
 ul {
