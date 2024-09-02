@@ -8,10 +8,10 @@
 }
 
 .mother {
-	border: 1px solid #ccc;
+	border: 1px solid cyan;
 	padding: 5px 10px;
 	text-decoration: none;
-	color: red;
+	color: #666;
 	font-family: arial, verdana, tahoma;
 	font-size: 11px;
 	display: inline-block;
@@ -24,10 +24,10 @@
 }
 
 .father {
-	border: 1px solid #ccc;
+	border: 1px solid orange;
 	padding: 5px 10px;
 	text-decoration: none;
-	color: blue;
+	color: #666;
 	font-family: arial, verdana, tahoma;
 	font-size: 11px;
 	display: inline-block;
