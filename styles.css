@@ -23,9 +23,9 @@
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
 	background: rgb(166,154,255);
-	background: -moz-linear-gradient(90deg, rgba(166,154,255,1) 0%, rgba(255,188,81,1) 100%);
-	background: -webkit-linear-gradient(90deg, rgba(166,154,255,1) 0%, rgba(255,188,81,1) 100%);
-	background: linear-gradient(90deg, rgba(166,154,255,1) 0%, rgba(255,188,81,1) 100%);
+	background: -moz-linear-gradient(90deg, rgba(166, 154, 255, 0.36) 0%, rgba(255, 188, 81, 0.36) 100%);
+	background: -webkit-linear-gradient(90deg, rgba(166, 154, 255, 0.36) 0%, rgba(255, 188, 81, 0.36) 100%);
+	background: linear-gradient(90deg, rgba(166, 154, 255, 0.36) 0%, rgba(255, 188, 81, 0.36) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#a69aff",endColorstr="#ffbc51",GradientType=1);
 }
 
