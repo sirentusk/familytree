@@ -4,6 +4,10 @@
 	text-align: center;
 }
 
+p {
+	padding: 20px;
+}
+
 .red {
 	color: rgb(191, 0, 0);
 }
@@ -154,12 +158,4 @@
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
 	background-color: rgba(235, 145, 0, 0.36);
-}
-
-ul {
-	
-}
-
-li {
-	
 }
