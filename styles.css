@@ -26,6 +26,9 @@
 	transition: all 0.5s;
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
+}
+
+.me {
 	background: rgb(166,154,255);
 	background: -moz-linear-gradient(90deg, rgba(166, 154, 255, 0.36) 0%, rgba(255, 188, 81, 0.36) 100%);
 	background: -webkit-linear-gradient(90deg, rgba(166, 154, 255, 0.36) 0%, rgba(255, 188, 81, 0.36) 100%);
