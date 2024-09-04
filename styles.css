@@ -34,7 +34,11 @@
 }
 
 .mother1 {
+	background-color: rgba(166, 154, 255, 0.36);
+}
 
+.father1 {
+	background-color: rgba(166, 154, 255, 0.36);
 }
 
 .mother2 {
@@ -86,7 +90,7 @@
 	transition: all 0.5s;
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
-	background-color: rgba(166, 154, 255, 0.36);
+	
 }
 
 .mother2 {
