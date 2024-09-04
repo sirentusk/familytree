@@ -12,7 +12,10 @@
 	color: rgb(191, 0, 0);
 }
 
-.box {
+.me,
+.mother,
+.father
+{
 	border: 1px solid #d1d1e0;
 	padding: 5px 10px;
 	text-decoration: none;
