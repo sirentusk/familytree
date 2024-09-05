@@ -91,6 +91,7 @@
 	transition: all 0.5s;
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
+	background-color: rgba(166, 154, 255, 0.36);
 }
 
 .me {
