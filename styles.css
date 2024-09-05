@@ -4,25 +4,6 @@
 	text-align: center;
 }
 
-:root {
-  --base-color-father: rgb(240, 213, 168);
-  --base-color-mother: rgb(187, 182, 227);
-}
-
-/* Father Hue Variations */
-.hue-0-f { --base-color-father: rgb(240, 213, 168); } /* Base Color */
-.hue-1-f { --base-color-father: rgb(235, 208, 160); }
-.hue-2-f { --base-color-father: rgb(230, 203, 152); }
-.hue-3-f { --base-color-father: rgb(225, 198, 144); }
-.hue-4-f { --base-color-father: rgb(220, 193, 136); }
-
-/* Mother Hue Variations */
-.hue-0-m { --base-color-mother: rgb(187, 182, 227); } /* Base Color */
-.hue-1-m { --base-color-mother: rgb(180, 175, 220); }
-.hue-2-m { --base-color-mother: rgb(173, 168, 213); }
-.hue-3-m { --base-color-mother: rgb(166, 161, 206); }
-.hue-4-m { --base-color-mother: rgb(159, 154, 199); }
-
 .title {
 	padding: 20px;
 }
@@ -106,26 +87,5 @@
   display: inline-block;
   border-radius: 5px;
   transition: all 0.5s;
-  background-color: var(--base-color-mother); /* Default for mother */
 }
 
-/* Apply father colors */
-.father1 { background-color: var(--base-color-father); }
-.father2 { background-color: var(--base-color-father); }
-.father3-1 { background-color: var(--base-color-father); }
-/* ... add more fathers with different hue variations ... */
-
-/* Apply mother colors */
-.mother1 { background-color: var(--base-color-mother); }
-.mother2 { background-color: var(--base-color-mother); }
-.mother3-1 { background-color: var(--base-color-mother); }
-/* ... add more mothers with different hue variations ... */
-
-/* Apply specific hue variations */
-.father1.hue-0-f { background-color: var(--base-color-father); }
-.father2.hue-1-f { background-color: var(--base-color-father); }
-.father6-16.hue-4-f { background-color: var(--base-color-father); }
-
-.mother1.hue-0-m { background-color: var(--base-color-mother); }
-.mother2.hue-1-m { background-color: var(--base-color-mother); }
-.mother6-16.hue-4-m { background-color: var(--base-color-mother); }
