@@ -2,7 +2,6 @@
 	margin: 0;
 	padding: 0;
 	text-align: center;
-	padding-bottom: 50px;
 }
 
 /* 	background-color: hsl(247, 44%, 80%);
@@ -17,6 +16,10 @@
 
 .red {
 	color: rgb(191, 0, 0);
+}
+
+footer {
+	padding-bottom: 50px;
 }
 
 /* Base styles for all elements */
