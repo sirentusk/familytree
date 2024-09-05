@@ -13,8 +13,10 @@
 }
 
 .me,
-.mother,
-.father
+.mother1,
+.father1,
+.mother2,
+.father2,
 {
 	border: 1px solid #d1d1e0;
 	padding: 5px 10px;
