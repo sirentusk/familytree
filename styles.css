@@ -76,8 +76,7 @@
 .mother6-15,
 .father6-15,
 .mother6-16,
-.father6-16,
-{
+.father6-16 {
 	border: 1px solid #d1d1e0;
 	padding: 5px 10px;
 	text-decoration: none;
@@ -91,7 +90,7 @@
 	transition: all 0.5s;
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
-	background-color: rgba(166, 154, 255, 0.36);
+	background-color: rgba(154, 172, 255, 0.36);
 }
 
 .me {
