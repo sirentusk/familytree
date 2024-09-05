@@ -4,6 +4,12 @@
 	text-align: center;
 }
 
+/* 	background-color: hsl(247, 44%, 80%);
+	background-color: hsl(38, 81%, 80%);
+	#bbb6e3
+	#f5d7a3
+*/
+
 .title {
 	padding: 20px;
 }
@@ -90,7 +96,14 @@
 	background-color: rgba(154, 172, 255, 0.36);
 }
 
-.me { background-color: hsl(247, 44%, 80%); } /* Starting Purple */
+.me {
+	background: rgb(187,182,227);
+	background: -moz-linear-gradient(90deg, rgba(187,182,227,1) 0%, rgba(245,215,163,1) 100%);
+	background: -webkit-linear-gradient(90deg, rgba(187,182,227,1) 0%, rgba(245,215,163,1) 100%);
+	background: linear-gradient(90deg, rgba(187,182,227,1) 0%, rgba(245,215,163,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#bbb6e3",endColorstr="#f5d7a3",GradientType=1);
+}
+
 .mother1 { background-color: hsl(246, 44%, 80%); }
 .mother2 { background-color: hsl(245, 44%, 80%); }
 .mother3-1 { background-color: hsl(244, 44%, 80%); }
@@ -123,3 +136,66 @@
 .mother6-14 { background-color: hsl(217, 44%, 80%); }
 .mother6-15 { background-color: hsl(216, 44%, 80%); }
 .mother6-16 { background-color: hsl(215, 44%, 80%); }
+.mother7-1 { background-color: hsl(214, 44%, 80%); }
+.mother7-2 { background-color: hsl(213, 44%, 80%); }
+.mother7-3 { background-color: hsl(212, 44%, 80%); }
+.mother7-4 { background-color: hsl(211, 44%, 80%); }
+.mother7-5 { background-color: hsl(210, 44%, 80%); }
+.mother7-6 { background-color: hsl(209, 44%, 80%); }
+.mother7-7 { background-color: hsl(208, 44%, 80%); }
+.mother7-8 { background-color: hsl(207, 44%, 80%); }
+.mother7-9 { background-color: hsl(206, 44%, 80%); }
+.mother7-10 { background-color: hsl(205, 44%, 80%); }
+.mother7-11 { background-color: hsl(204, 44%, 80%); }
+.mother7-12 { background-color: hsl(203, 44%, 80%); }
+.mother7-13 { background-color: hsl(202, 44%, 80%); }
+.mother7-14 { background-color: hsl(201, 44%, 80%); }
+.mother7-15 { background-color: hsl(200, 44%, 80%); }
+
+.father1 { background-color: hsl(39, 81%, 80%); }
+.father2 { background-color: hsl(40, 81%, 80%); }
+.father3-1 { background-color: hsl(41, 81%, 80%); }
+.father3-2 { background-color: hsl(42, 81%, 80%); }
+.father4-1 { background-color: hsl(43, 81%, 80%); }
+.father4-2 { background-color: hsl(44, 81%, 80%); }
+.father4-3 { background-color: hsl(45, 81%, 80%); }
+.father4-4 { background-color: hsl(46, 81%, 80%); }
+.father5-1 { background-color: hsl(47, 81%, 80%); }
+.father5-2 { background-color: hsl(48, 81%, 80%); }
+.father5-3 { background-color: hsl(49, 81%, 80%); }
+.father5-4 { background-color: hsl(50, 81%, 80%); }
+.father5-5 { background-color: hsl(51, 81%, 80%); }
+.father5-6 { background-color: hsl(52, 81%, 80%); }
+.father5-7 { background-color: hsl(53, 81%, 80%); }
+.father5-8 { background-color: hsl(54, 81%, 80%); }
+.father6-1 { background-color: hsl(55, 81%, 80%); }
+.father6-2 { background-color: hsl(56, 81%, 80%); }
+.father6-3 { background-color: hsl(57, 81%, 80%); }
+.father6-4 { background-color: hsl(58, 81%, 80%); }
+.father6-5 { background-color: hsl(59, 81%, 80%); }
+.father6-6 { background-color: hsl(60, 81%, 80%); }
+.father6-7 { background-color: hsl(61, 81%, 80%); }
+.father6-8 { background-color: hsl(62, 81%, 80%); }
+.father6-9 { background-color: hsl(63, 81%, 80%); }
+.father6-10 { background-color: hsl(64, 81%, 80%); }
+.father6-11 { background-color: hsl(65, 81%, 80%); }
+.father6-12 { background-color: hsl(66, 81%, 80%); }
+.father6-13 { background-color: hsl(67, 81%, 80%); }
+.father6-14 { background-color: hsl(68, 81%, 80%); }
+.father6-15 { background-color: hsl(69, 81%, 80%); }
+.father6-16 { background-color: hsl(70, 81%, 80%); }
+.father7-1 { background-color: hsl(71, 81%, 80%); }
+.father7-2 { background-color: hsl(72, 81%, 80%); }
+.father7-3 { background-color: hsl(73, 81%, 80%); }
+.father7-4 { background-color: hsl(74, 81%, 80%); }
+.father7-5 { background-color: hsl(75, 81%, 80%); }
+.father7-6 { background-color: hsl(76, 81%, 80%); }
+.father7-7 { background-color: hsl(77, 81%, 80%); }
+.father7-8 { background-color: hsl(78, 81%, 80%); }
+.father7-9 { background-color: hsl(79, 81%, 80%); }
+.father7-10 { background-color: hsl(80, 81%, 80%); }
+.father7-11 { background-color: hsl(81, 81%, 80%); }
+.father7-12 { background-color: hsl(82, 81%, 80%); }
+.father7-13 { background-color: hsl(83, 81%, 80%); }
+.father7-14 { background-color: hsl(84, 81%, 80%); }
+.father7-15 { background-color: hsl(85, 81%, 80%); }
