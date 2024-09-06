@@ -22,6 +22,10 @@ footer {
 	padding-bottom: 150px;
 }
 
+header {
+	padding-top: 150px;
+}
+
 /* Base styles for all elements */
 .Me,
 .Line1,
