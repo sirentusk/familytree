@@ -137,7 +137,10 @@ footer {
 .GreatGrandfatherGrandfather5,
 .GreatGrandfatherGrandfather6,
 .GreatGrandfatherGrandfather7,
-.GreatGrandfatherGrandfather8 {
+.GreatGrandfatherGrandfather8,
+.GreatGreatGrandfatherMother1,
+.GreatGreatGrandfatherGrandmother1,
+.GreatGreatGreatGrandfatherMother1 {
 	border: 1px solid #d1d1e0;
 	padding: 5px 10px;
   	text-decoration: none;
