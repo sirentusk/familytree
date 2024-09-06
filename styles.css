@@ -90,6 +90,22 @@ footer {
 .father6-15,
 .mother6-16,
 .father6-16,
+.GreatGrandmotherMother1,
+.GreatGrandmotherMother2,
+.GreatGrandmotherMother3,
+.GreatGrandmotherMother4,
+.GreatGrandmotherFather1,
+.GreatGrandmotherFather2,
+.GreatGrandmotherFather3,
+.GreatGrandmotherFather4,
+.GreatGrandfatherMother1,
+.GreatGrandfatherMother2,
+.GreatGrandfatherMother3,
+.GreatGrandfatherMother4,
+.GreatGrandfatherFather1,
+.GreatGrandfatherFather2,
+.GreatGrandfatherFather3,
+.GreatGrandfatherFather4,
 .GreatGrandmotherGrandmother1,
 .GreatGrandmotherGrandmother2,
 .GreatGrandmotherGrandmother3,
@@ -205,6 +221,26 @@ footer {
 .mother7-13 { background-color: hsl(202, 44%, 80%); }
 .mother7-14 { background-color: hsl(201, 44%, 80%); }
 .mother7-15 { background-color: hsl(200, 44%, 80%); }
+
+.GreatGrandmotherMother1 {background-color: hsl(246, 44%, 80%);}
+.GreatGrandmotherMother2 {background-color: hsl(246, 44%, 80%);}
+.GreatGrandmotherMother3 {background-color: hsl(200, 44%, 80%);}
+.GreatGrandmotherMother4 {background-color: hsl(200, 44%, 80%);}
+
+.GreatGrandmotherFather1 {background-color: hsl(246, 44%, 80%);}
+.GreatGrandmotherFather2 {background-color: hsl(246, 44%, 80%);}
+.GreatGrandmotherFather3 {background-color: hsl(200, 44%, 80%);}
+.GreatGrandmotherFather4 {background-color: hsl(200, 44%, 80%);}
+
+.GreatGrandfatherMother1 {background-color: hsl(246, 44%, 80%);}
+.GreatGrandfatherMother2 {background-color: hsl(246, 44%, 80%);}
+.GreatGrandfatherMother3 {background-color: hsl(200, 44%, 80%);}
+.GreatGrandfatherMother4 {background-color: hsl(200, 44%, 80%);}
+
+.GreatGrandfatherFather1 {background-color: hsl(246, 44%, 80%);}
+.GreatGrandfatherFather2 {background-color: hsl(246, 44%, 80%);}
+.GreatGrandfatherFather3 {background-color: hsl(200, 44%, 80%);}
+.GreatGrandfatherFather4 {background-color: hsl(200, 44%, 80%);}
 
 .GreatGrandmotherGrandmother1 {background-color: hsl(246, 44%, 80%);}
 .GreatGrandmotherGrandmother2 {background-color: hsl(246, 44%, 80%);}
