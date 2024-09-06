@@ -230,43 +230,43 @@ header {
 }
 
 /* Line 1: Maternal Ancestors */
-Line 1 { background-color: hsl(200, 44%, 80%); }
+Line1 { background-color: hsl(200, 44%, 80%); }
 /* Maternal, Maternal Grandfather, Maternal Grandfather Father, Maternal G-Grandfather Father, Maternal G-G-Grandfather Father, Maternal G-G-G-Grandfather Father, Maternal G-G-G-G-Grandfather Father, Maternal G-G-G-G-G-Grandfather Father, Maternal G-G-G-G-G-G-Grandfather Father */
 
 /* Line 2: Paternal Ancestors */
-Line 2 { background-color: hsl(39, 81%, 80%); }
+Line2 { background-color: hsl(39, 81%, 80%); }
 /* Paternal, Paternal Grandfather, Paternal Grandfather Father, Paternal G-Grandfather Father, Paternal G-G-Grandfather Father, Paternal G-G-G-Grandfather Father, Paternal G-G-G-G-Grandfather Father, Paternal G-G-G-G-G-Grandfather Father, Paternal G-G-G-G-G-G-Grandfather Father */
 
 /* Line 3: Maternal Grandmother’s Ancestors */
-Line 3 { background-color: hsl(245, 44%, 80%); }
+Line3 { background-color: hsl(245, 44%, 80%); }
 /* Maternal Grandmother, Maternal Grandmother Father, Maternal Grandmother Father’s Father, Maternal G-Grandmother Father, Maternal G-G-Grandmother Father, Maternal G-G-G-Grandmother Father, Maternal G-G-G-G-Grandmother Father, Maternal G-G-G-G-G-Grandmother Father, Maternal G-G-G-G-G-G-Grandmother Father */
 
 /* Line 4: Paternal Grandmother’s Ancestors */
-Line 4 { background-color: hsl(359, 80%, 80%); }
+Line4 { background-color: hsl(359, 80%, 80%); }
 /* Paternal Grandmother, Paternal Grandmother Father, Paternal Grandmother Father’s Father, Paternal G-Grandmother Father, Paternal G-G-Grandmother Father, Paternal G-G-G-Grandmother Father, Paternal G-G-G-G-Grandmother Father, Paternal G-G-G-G-G-Grandmother Father, Paternal G-G-G-G-G-G-Grandmother Father */
 
 /* Line 5: Maternal Great-Grandparents */
-Line 5 { background-color: hsl(160, 44%, 80%); }
+Line5 { background-color: hsl(160, 44%, 80%); }
 /* Maternal Great-Grandmother, Maternal Great-Grandmother Father, Maternal Great-Grandmother Father’s Father, Maternal G-G-Grandmother Father, Maternal G-G-G-Grandmother Father, Maternal G-G-G-G-Grandmother Father, Maternal G-G-G-G-G-Grandmother Father, Maternal G-G-G-G-G-G-Grandmother Father, Maternal G-G-G-G-G-G-G-Grandmother Father */
 
 /* Line 6: Paternal Great-Grandparents */
-Line 6 { background-color: hsl(80, 44%, 80%); }
+Line6 { background-color: hsl(80, 44%, 80%); }
 /* Paternal Great-Grandmother, Paternal Great-Grandmother Father, Paternal Great-Grandmother Father’s Father, Paternal G-G-Grandmother Father, Paternal G-G-G-Grandmother Father, Paternal G-G-G-G-Grandmother Father, Paternal G-G-G-G-G-Grandmother Father, Paternal G-G-G-G-G-G-Grandmother Father, Paternal G-G-G-G-G-G-G-Grandmother Father */
 
 /* Line 7: Maternal Grandmother’s Further Ancestors */
-Line 7 { background-color: hsl(200, 60%, 80%); }
+Line7 { background-color: hsl(200, 60%, 80%); }
 /* Maternal Grandmother's Ancestors’ Ancestors: Maternal Grandmother’s Grandfather, Maternal Grandmother’s Grandmother Father, Maternal G-G-Grandmother Father, Maternal G-G-G-Grandmother Father, Maternal G-G-G-G-Grandmother Father, Maternal G-G-G-G-G-Grandmother Father, Maternal G-G-G-G-G-G-Grandmother Father, Maternal G-G-G-G-G-G-G-Grandmother Father, Maternal G-G-G-G-G-G-G-G-Grandmother Father */
 
 /* Line 8: Paternal Grandmother’s Further Ancestors */
-Line 8 { background-color: hsl(140, 60%, 80%); }
+Line8 { background-color: hsl(140, 60%, 80%); }
 /* Paternal Grandmother’s Ancestors’ Ancestors: Paternal Grandmother’s Grandfather, Paternal Grandmother’s Grandmother Father, Paternal G-G-Grandmother Father, Paternal G-G-G-Grandmother Father, Paternal G-G-G-G-Grandmother Father, Paternal G-G-G-G-G-Grandmother Father, Paternal G-G-G-G-G-G-Grandmother Father, Paternal G-G-G-G-G-G-G-Grandmother Father, Paternal G-G-G-G-G-G-G-G-Grandmother Father */
 
 /* Line 9: Maternal Grandfather’s Further Ancestors */
-Line 9 { background-color: hsl(220, 60%, 80%); }
+Line9 { background-color: hsl(220, 60%, 80%); }
 /* Maternal Grandfather's Ancestors’ Ancestors: Maternal Grandfather’s Grandfather, Maternal Grandfather’s Grandmother Father, Maternal G-G-Grandfather Father, Maternal G-G-G-Grandfather Father, Maternal G-G-G-G-Grandfather Father, Maternal G-G-G-G-G-Grandfather Father, Maternal G-G-G-G-G-G-Grandfather Father, Maternal G-G-G-G-G-G-G-Grandfather Father, Maternal G-G-G-G-G-G-G-G-Grandfather Father */
 
 /* Line 10: Paternal Grandfather’s Further Ancestors */
-Line 10 { background-color: hsl(260, 60%, 80%); }
+Line10 { background-color: hsl(260, 60%, 80%); }
 /* Paternal Grandfather’s Ancestors’ Ancestors: Paternal Grandfather’s Grandfather, Paternal Grandfather’s Grandmother Father, Paternal G-G-Grandfather Father, Paternal G-G-G-Grandfather Father, Paternal G-G-G-G-Grandfather Father, Paternal G-G-G-G-G-Grandfather Father, Paternal G-G-G-G-G-G-Grandfather Father, Paternal G-G-G-G-G-G-G-Grandfather Father, Paternal G-G-G-G-G-G-G-G-Grandfather Father */
 
 .mother3-1 { background-color: hsl(244, 44%, 80%); }
