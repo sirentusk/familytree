@@ -126,9 +126,6 @@ footer {
 
 .grandmother { background-color: hsl(245, 44%, 80%); }
 .grandfather { background-color: hsl(200, 44%, 80%); }
-.nan { background-color: hsl(359, 80%, 80%); }
-.pop { background-color: hsl(39, 81%, 80%); }
-
 .mother3-1 { background-color: hsl(244, 44%, 80%); }
 .mother3-2 { background-color: hsl(243, 44%, 80%); }
 .mother4-1 { background-color: hsl(242, 44%, 80%); }
@@ -175,6 +172,17 @@ footer {
 .mother7-14 { background-color: hsl(201, 44%, 80%); }
 .mother7-15 { background-color: hsl(200, 44%, 80%); }
 
+.GreatGrandmotherGrandmother1 {background-color: hsl(246, 44%, 80%);}
+.GreatGrandmotherGrandmother2 {background-color: hsl(246, 44%, 80%);}
+.GreatGrandmotherGrandmother3 {background-color: hsl(246, 44%, 80%);}
+.GreatGrandmotherGrandmother4 {background-color: hsl(246, 44%, 80%);}
+.GreatGrandfatherGrandmother1 {background-color: hsl(200, 44%, 80%);}
+.GreatGrandfatherGrandmother2 {background-color: hsl(200, 44%, 80%;}
+.GreatGrandfatherGrandmother3 {background-color: hsl(200, 44%, 80%);}
+.GreatGrandfatherGrandmother4 {background-color: hsl(200, 44%, 80%);}
+
+.nan { background-color: hsl(359, 80%, 80%); }
+.pop { background-color: hsl(39, 81%, 80%); }
 .father2 { background-color: hsl(40, 81%, 80%); }
 .father3-1 { background-color: hsl(41, 81%, 80%); }
 .father3-2 { background-color: hsl(42, 81%, 80%); }
