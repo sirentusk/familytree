@@ -112,17 +112,23 @@ footer {
 .mother { 
 	background-color: hsl(246, 44%, 80%);
 	background: -moz-linear-gradient(90deg, hsl(246, 44%, 80%) 0%, 
-					hsl(246, 44%, 80%) 70%, 
 					hsl(200, 44%, 80%) 100%);
 	background: -webkit-linear-gradient(90deg, hsl(246, 44%, 80%) 0%, 
-					hsl(246, 44%, 70%) 80%, 
 					hsl(200, 44%, 80%) 100%);
 	background: linear-gradient(90deg, hsl(246, 44%, 80%) 0%, 
-				    	hsl(246, 44%, 80%) 70%, 
 				    	hsl(200, 44%, 80%) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#bbb6e3",endColorstr="#f5d7a3",GradientType=1);
 }
-.father { background-color: hsl(39, 81%, 80%); }
+.father {
+	background-color: hsl(39, 81%, 80%);
+	background: -moz-linear-gradient(90deg, hsl(39, 81%, 80%) 0%, 
+					hsl(359, 80%, 80%) 100%);
+	background: -webkit-linear-gradient(90deg, hsl(39, 81%, 80%) 0%, 
+					hsl(359, 80%, 80%) 100%);
+	background: linear-gradient(90deg, hsl(39, 81%, 80%) 0%, 
+				    	hsl(359, 80%, 80%) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#bbb6e3",endColorstr="#f5d7a3",GradientType=1);	
+}
 .grandmother { 
 	background-color: hsl(245, 44%, 80%);
 	background: -moz-linear-gradient(90deg, hsl(245, 44%, 80%) 0%, 
