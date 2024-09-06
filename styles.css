@@ -115,7 +115,6 @@ footer {
 	display: inline-block;
 	border-radius: 5px;
 	transition: all 0.5s;
-	background-color: rgba(154, 172, 255, 0.36);
 }
 
 .me {
@@ -142,6 +141,9 @@ footer {
 
 .grandmother { background-color: hsl(245, 44%, 80%); }
 .grandfather { background-color: hsl(200, 44%, 80%); }
+.nan { background-color: hsl(359, 80%, 80%); }
+.pop { background-color: hsl(39, 81%, 80%); }
+
 .mother3-1 { background-color: hsl(244, 44%, 80%); }
 .mother3-2 { background-color: hsl(243, 44%, 80%); }
 .mother4-1 { background-color: hsl(242, 44%, 80%); }
@@ -206,8 +208,6 @@ footer {
 .GreatGrandfatherGrandfather3 {background-color: hsl(200, 44%, 80%);}
 .GreatGrandfatherGrandfather4 {background-color: hsl(200, 44%, 80%);}
 
-.nan { background-color: hsl(359, 80%, 80%); }
-.pop { background-color: hsl(39, 81%, 80%); }
 .father2 { background-color: hsl(40, 81%, 80%); }
 .father3-1 { background-color: hsl(41, 81%, 80%); }
 .father3-2 { background-color: hsl(42, 81%, 80%); }
