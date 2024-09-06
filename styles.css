@@ -94,12 +94,6 @@ footer {
 .Line68,
 .Line69,
 .Line70,
-.MaternalMother,
-.PaternalFather,
-.MaternalGrandmother,
-.MaternalGrandfather,
-.PaternalNan,
-.PaternalPop,
 .mother3-1,
 .father3-1,
 .mother3-2,
@@ -230,25 +224,11 @@ footer {
 	background: linear-gradient(90deg, hsl(246, 44%, 80%) 0%, hsl(200, 44%, 80%) 33%, hsl(359, 80%, 80%) 66%, hsl(39, 81%, 80%) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#bbb6e3",endColorstr="#f5d7a3",GradientType=1);
 }
-.MaternalMother { 
-	background-color: hsl(246, 44%, 80%);
-	background: -moz-linear-gradient(90deg, hsl(246, 44%, 80%) 0%, hsl(200, 44%, 80%) 100%);
-	background: -webkit-linear-gradient(90deg, hsl(246, 44%, 80%) 0%, hsl(200, 44%, 80%) 100%);
-	background: linear-gradient(90deg, hsl(246, 44%, 80%) 0%, hsl(200, 44%, 80%) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#bbb6e3",endColorstr="#f5d7a3",GradientType=1);
-}
-.PaternalFather {
-	background-color: hsl(39, 81%, 80%);
-	background: -moz-linear-gradient(90deg, hsl(359, 80%, 80%) 0%, hsl(39, 81%, 80%) 100%);
-	background: -webkit-linear-gradient(90deg, hsl(359, 80%, 80%) 0%, hsl(39, 81%, 80%) 100%);
-	background: linear-gradient(90deg, hsl(359, 80%, 80%) 0%, hsl(39, 81%, 80%) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#bbb6e3",endColorstr="#f5d7a3",GradientType=1);	
-}
 
-.MaternalGrandmother { background-color: hsl(245, 44%, 80%); }
-.MaternalGrandfather { background-color: hsl(200, 44%, 80%); }
-.PaternalNan { background-color: hsl(359, 80%, 80%); }
-.PaternalPop { background-color: hsl(39, 81%, 80%); }
+.Line1 { background-color: hsl(200, 44%, 80%); } /* Grandpa */
+.Line2 { background-color: hsl(39, 81%, 80%); } /* Pop */
+.Line3 { background-color: hsl(245, 44%, 80%); } /* Grandma */
+.Line4 { background-color: hsl(359, 80%, 80%); } /* Nan */
 
 .mother3-1 { background-color: hsl(244, 44%, 80%); }
 .mother3-2 { background-color: hsl(243, 44%, 80%); }
