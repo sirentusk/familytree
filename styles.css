@@ -89,7 +89,23 @@ footer {
 .mother6-15,
 .father6-15,
 .mother6-16,
-.father6-16 {
+.father6-16,
+.GreatGrandmotherGrandmother1,
+.GreatGrandmotherGrandmother2,
+.GreatGrandmotherGrandmother3,
+.GreatGrandmotherGrandmother4,
+.GreatGrandmotherGrandfather1,
+.GreatGrandmotherGrandfather2,
+.GreatGrandmotherGrandfather3,
+.GreatGrandmotherGrandfather4,
+.GreatGrandfatherGrandmother1,
+.GreatGrandfatherGrandmother2,
+.GreatGrandfatherGrandmother3,
+.GreatGrandfatherGrandmother4,
+.GreatGrandfatherGrandfather1,
+.GreatGrandfatherGrandfather2,
+.GreatGrandfatherGrandfather3,
+.GreatGrandfatherGrandfather4 {
 	border: 1px solid #d1d1e0;
 	padding: 5px 10px;
   	text-decoration: none;
