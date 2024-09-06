@@ -108,7 +108,13 @@ footer {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#bbb6e3",endColorstr="#f5d7a3",GradientType=1);
 }
 
-.mother1 { background-color: hsl(246, 44%, 80%); }
+.mother1 { 
+	background-color: ;
+	background: -moz-linear-gradient(90deg, hsl(246, 44%, 80%), 0%, hsl(287, 80%, 80%) 100%);
+	background: -webkit-linear-gradient(90deg, hsl(246, 44%, 80%) 0%, hsl(287, 80%, 80%) 100%);
+	background: linear-gradient(90deg, hsl(246, 44%, 80%) 0%, hsl(287, 80%, 80%) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#bbb6e3",endColorstr="#f5d7a3",GradientType=1);
+}
 .mother2 { background-color: hsl(245, 44%, 80%); }
 .mother3-1 { background-color: hsl(244, 44%, 80%); }
 .mother3-2 { background-color: hsl(243, 44%, 80%); }
@@ -203,3 +209,4 @@ footer {
 .father7-13 { background-color: hsl(83, 81%, 80%); }
 .father7-14 { background-color: hsl(84, 81%, 80%); }
 .father7-15 { background-color: hsl(85, 81%, 80%); }
+
