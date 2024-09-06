@@ -23,13 +23,13 @@ footer {
 }
 
 /* Base styles for all elements */
-.me,
-.mother,
-.father,
-.grandmother,
-.grandfather,
-.nan,
-.pop,
+.Me,
+.MaternalMother,
+.PaternalFather,
+.MaternalGrandmother,
+.MaternalGrandfather,
+.PaternalNan,
+.PaternalPop,
 .mother3-1,
 .father3-1,
 .mother3-2,
@@ -138,10 +138,10 @@ footer {
 .GreatGrandfatherGrandfather6,
 .GreatGrandfatherGrandfather7,
 .GreatGrandfatherGrandfather8,
-.GreatGrandfatherGreatGrandmother1,
-.GreatGreatGrandfatherMother1,
-.GreatGreatGrandfatherGrandmother1,
-.GreatGreatGrandfatherGreatGrandmother1 {
+.MaternalGreatGreatGrandfatherMother1,
+.MaternalGreatGreatGrandfatherGrandmother1,
+.MaternalGreatGreatGreatGrandfatherMother1,
+.MaternalGreatGreatGreatGrandfatherGrandmother1 {
 	border: 1px solid #d1d1e0;
 	padding: 5px 10px;
   	text-decoration: none;
