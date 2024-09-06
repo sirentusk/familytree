@@ -229,13 +229,15 @@ header {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#bbb6e3",endColorstr="#f5d7a3",GradientType=1);
 }
 
+
+
 /* Line 1: Maternal Ancestors */
 .Line1 { background-color: hsl(200, 44%, 80%); }
-/* Maternal, Maternal Grandfather, Maternal Grandfather Father, Maternal G-Grandfather Father, Maternal G-G-Grandfather Father, Maternal G-G-G-Grandfather Father, Maternal G-G-G-G-Grandfather Father, Maternal G-G-G-G-G-Grandfather Father, Maternal G-G-G-G-G-G-Grandfather Father */
+/* Maternal Grandfather, Maternal Grandfather Father, Maternal G-Grandfather Father, Maternal G-G-Grandfather Father, Maternal G-G-G-Grandfather Father, Maternal G-G-G-G-Grandfather Father, Maternal G-G-G-G-G-Grandfather Father, Maternal G-G-G-G-G-G-Grandfather Father */
 
 /* Line 2: Paternal Ancestors */
 .Line2 { background-color: hsl(39, 81%, 80%); }
-/* Paternal, Paternal Grandfather, Paternal Grandfather Father, Paternal G-Grandfather Father, Paternal G-G-Grandfather Father, Paternal G-G-G-Grandfather Father, Paternal G-G-G-G-Grandfather Father, Paternal G-G-G-G-G-Grandfather Father, Paternal G-G-G-G-G-G-Grandfather Father */
+/* Paternal Grandfather, Paternal Grandfather Father, Paternal G-Grandfather Father, Paternal G-G-Grandfather Father, Paternal G-G-G-Grandfather Father, Paternal G-G-G-G-Grandfather Father, Paternal G-G-G-G-G-Grandfather Father, Paternal G-G-G-G-G-G-Grandfather Father */
 
 /* Line 3: Maternal Grandmother’s Ancestors */
 .Line3 { background-color: hsl(245, 44%, 80%); }
